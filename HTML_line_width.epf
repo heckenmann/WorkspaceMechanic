@@ -1,0 +1,8 @@
+# @title HTML_line_width
+# @description html line width 250
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Oct 03 23:45:33 CEST 2014
+/instance/org.eclipse.wst.html.core/lineWidth=250
+file_export_version=3.0

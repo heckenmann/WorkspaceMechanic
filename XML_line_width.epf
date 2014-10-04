@@ -1,0 +1,8 @@
+# @title XML_line_width_250
+# @description line width for xml
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Oct 03 13:28:39 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.wst.xml.core/lineWidth=250

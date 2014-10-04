@@ -1,0 +1,8 @@
+# @title Disable_Folding
+# @description Deactivates Folding
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Oct 03 13:31:46 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/editor_folding_enabled=false

@@ -1,0 +1,9 @@
+# @title XML_Spaces
+# @description Spaces in XML
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Oct 03 13:27:35 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.wst.xml.core/indentationSize=4
+/instance/org.eclipse.wst.xml.core/indentationChar=space

@@ -1,0 +1,9 @@
+# @title HTML_spaces
+# @description 4 spaces for a tab
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Oct 03 23:21:09 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.wst.html.core/indentationSize=4
+/instance/org.eclipse.wst.html.core/indentationChar=space
